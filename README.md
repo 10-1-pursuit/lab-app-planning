@@ -32,11 +32,11 @@ Choose from any popular app. It can be an app for anything:
 
 #### In 1-3 sentences describe your application.
 
-> My app ...
+> My app is a social media platform that focuses on sharing photos to connect families and friends
 
 #### What is the name of your application?
 
-> APP NAME
+> PixShare
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
@@ -44,7 +44,15 @@ Choose from any popular app. It can be an app for anything:
 
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
-> As a ...
+> As a new user, I want to be able to create an account, so that I can start sharing photos with others.
+> As a new user, I want to be able to upload and share my photos, so that my familes and friends can see it.
+> As a retired vet user, I want to be able to be able to follow other users, so that I can start connecting with people.
+> As a new user, I want to be able to to like and comment on photos, so that I can engage with other users.
+> As a new user, I want to be able to search for other users, so that I can find and connect with friends and family.
+> As an existing user, I want to be able to edit the captions and details of my uploaded photos so that i can make changes if needed.
+> As an existing user, I want to be able to receive notifications for likes, comments, and new followsers so that I can stay updated.
+> As an existing user, I want to be able to see friends and family that may also use it, so that I can add them.
+> As an existing user, I want to be able to customize my profile and privacy settings, so i can control what others see and I can stylize my page.
 
 #### Create a new board
 
@@ -55,7 +63,7 @@ Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 Provide a link to your board below.
 
-> [APP NAME board]()
+> [https://trello.com/b/g4IFc7uT/lab-app]()
 
 #### For one card, fill out more details, include:
 
@@ -68,7 +76,7 @@ Move that card to the `Doing` list and assign yourself to it.
 
 Provide a link to the specific card below.
 
-> [Detailed card]()
+> [https://trello.com/c/PSAVxdDC/1-as-a-new-user-i-want-to-be-able-to-create-an-account-so-that-i-can-start-sharing-photos-with-others]()
 
 #### Create one bug card.
 
@@ -86,7 +94,7 @@ Make sure to label it as a bug. Move the card to the `To Do` list.
 
 Provide a link to the specific card below.
 
-> [Bug card]()
+> [https://trello.com/c/SHO3eF41/6-remove-button-doesnt-work-when-clicked-on-by-user]()
 
 #### Create one chore card
 
@@ -97,7 +105,7 @@ Think back to a chore you had in a recent lab or project and model that example.
 
 Provide a link to the specific card below.
 
-> [Chore card]()
+> [https://trello.com/c/VDJOqilO/7-create-simple-functionality-that-is-ready-for-deployment]()
 
 ### Wireframes
 
@@ -125,10 +133,10 @@ Deploy this to GitHub pages.
 
 Write down three things that went well for you doing this lab.
  
- - one
- - two
- - three
+ - one : Breaking down each problem step by step
+ - two : CSS working like i want it to.
+ - three : Wireframes
 
 Write down one thing you'd improve on for next time.
 
-> One thing I'd improve ...
+> One thing I'd improve on is constantly making my code precise and short as possible while getting the task at hand done.
