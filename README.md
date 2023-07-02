@@ -16,15 +16,8 @@ You will be planning a new application to develop that will be a competitor for 
 
 Choose from any popular app. It can be an app for anything:
 
-- Music
-- TV/Videos
-- Shopping
+
 - Social media
-- Blog
-- Forum (like Stack Overflow or Reddit)
-- Chat app
-- Recipes
-- Business reviews
 
 ## Questions
 
@@ -36,15 +29,19 @@ Choose from any popular app. It can be an app for anything:
 
 #### What is the name of your application?
 
-> APP NAME
+> SOCIAL: App
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
-- `As a <type of user>, I want to <some goal>, so that <some reason>.`
-
-Write the user stories below. Add more `>` for each user story or use `-` to make a list
-
-> As a ...
+- `As a <new of user>, I want to <join>, so that <i can connect with my friends>.`
+- `As a <user>, I want to <see what friends are online>, so that <message and contact them>.`
+- `As a < user>, I want to <find events my friends are going to>, so that <i can plan to go with them>.`
+- `As a  <user>, I want to <communicate with my friends>, so that <i can make plans and schedule events>.`
+- `As a <event holder>, I want to <advertise my events>, so that <raise my attendance!>.`
+- `As a < user>, I want to <block certain people>, so that <i am in control of my privacy>.`
+- `As a < user>, I want to <be able to be discreet>, so that <i can use the site with being harrased by other people>.`
+- `As a <event holder>, I want to <be able to charge online>, so that <make revnue from views>.`
+- `As a <premium user>, I want to <view things without being harrased by sales>, so that <ihave an experince that's cost free>.`
 
 #### Create a new board
 
@@ -55,7 +52,7 @@ Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 Provide a link to your board below.
 
-> [APP NAME board]()
+> [XR-Lab](https://trello.com/b/ru3ALhVe/xr-lab)
 
 #### For one card, fill out more details, include:
 
@@ -68,7 +65,7 @@ Move that card to the `Doing` list and assign yourself to it.
 
 Provide a link to the specific card below.
 
-> [Detailed card]()
+> [- `As a new user, I want to join , so that  i can connect with my friends.']()
 
 #### Create one bug card.
 
@@ -86,7 +83,7 @@ Make sure to label it as a bug. Move the card to the `To Do` list.
 
 Provide a link to the specific card below.
 
-> [Bug card]()
+> [https://trello.com/c/cJjuX6sp]()
 
 #### Create one chore card
 
@@ -97,23 +94,21 @@ Think back to a chore you had in a recent lab or project and model that example.
 
 Provide a link to the specific card below.
 
-> [Chore card]()
+> [https://trello.com/c/W3azsf7I]()
 
 ### Wireframes
 
 Create three wireframes. You may use a free online tool or draw them on paper (you can either scan them or use your phone to photograph them). You will upload them to this repository.
 
 1. Create a wireframe for the main page that shows an index view (on mobile).
-
-> ![Index on mobile view]()
-
 1. Create a wireframe for a wide desktop view for either the index view.
 
-> ![Index on desktop view]()
+> [https://excalidraw.com/#json=cjZ2vi01dyQClS2nAHVtC,Cz9E3pHx9vkFONW-WU9B7g]()
+
 
 1. Create a wireframe for the view that has a new form (new user, new shipping information, new post, new song, new product etc.) view (on mobile).
 
-> ![New view]()
+> ![https://excalidraw.com/#json=Qw1123OXk3yAcSs9jJVD9,EscR2e9zncoch5qS1Kqn1g]()
 
 ## Minimum Viable Product
 
@@ -125,10 +120,10 @@ Deploy this to GitHub pages.
 
 Write down three things that went well for you doing this lab.
  
- - one
- - two
- - three
+ - wire framing is good, it'd be more efficent if i could use photo shop and create the elements i would use.
+ - Storyboarding is a good way to break out what you want a program to do in steps.
+ - I got my 3 sections and divs so i feel the layout with work IF i could control it with CSS
 
 Write down one thing you'd improve on for next time.
 
-> One thing I'd improve ...
+> It's just gonna take some time and find support for the CSS; im basically just guess and copying work that I find on skillshare currently. It's VERY frustrating and maybe we could spend some time on it in class? But i doubt it!
