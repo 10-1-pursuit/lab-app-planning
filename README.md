@@ -32,11 +32,11 @@ Choose from any popular app. It can be an app for anything:
 
 #### In 1-3 sentences describe your application.
 
-> My app ...
+> My app would be a parking app for city drivers who have bad luck finding parking or love in congested areas. Drivers will be able to have a parking spot waiting for them by the time they get to their destination. 
 
 #### What is the name of your application?
 
-> APP NAME
+> Past Parking
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
@@ -44,7 +44,17 @@ Choose from any popular app. It can be an app for anything:
 
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
-> As a ...
+>As a driver, I want to find a parking spot waiting for me by the time I get to my destination.
+>As a driver, I want to find a parking spot that fits my car.
+>As a driver, I want to find a parking spot that closest to my destination.
+>As a driver, I want to know whether the parking location is safe.
+>As a driver, I want to know if the parking spot is valid for 24hrs. I don't want to park at night and have to change parking because of alternate side parking.
+>As a driver, I want to know how long the parking spot is available for me. 
+>As a driver, I want to be rewarded for holding a parking spot for someone else.
+>As a driver, I want to be able to track the location of my car.
+>As a driver, I want to have a local community of drivers so we could look out for each other.
+>As a driver, I want be able to contact emergency services.
+
 
 #### Create a new board
 
@@ -55,7 +65,7 @@ Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 Provide a link to your board below.
 
-> [APP NAME board]()
+> [Backlog](https://trello.com/invite/b/dKhpbp6c/ATTI5ea399a660a9dbe3a323edf1c2c7f26b59DED92E/past-parking-app)
 
 #### For one card, fill out more details, include:
 
@@ -68,7 +78,7 @@ Move that card to the `Doing` list and assign yourself to it.
 
 Provide a link to the specific card below.
 
-> [Detailed card]()
+> [Doing](https://trello.com/c/MmemARJH)
 
 #### Create one bug card.
 
@@ -86,7 +96,7 @@ Make sure to label it as a bug. Move the card to the `To Do` list.
 
 Provide a link to the specific card below.
 
-> [Bug card]()
+> [Bug card](https://trello.com/c/VwR1ulru)
 
 #### Create one chore card
 
@@ -97,7 +107,7 @@ Think back to a chore you had in a recent lab or project and model that example.
 
 Provide a link to the specific card below.
 
-> [Chore card]()
+> [Chore card](https://trello.com/c/Q9fzqUHP)
 
 ### Wireframes
 
@@ -105,15 +115,15 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 1. Create a wireframe for the main page that shows an index view (on mobile).
 
-> ![Index on mobile view]()
+> ![Index on mobile view](./assets/3B47D4A8-FFE7-4182-ADC9-8EDC70DCF68C.jpeg)
 
 1. Create a wireframe for a wide desktop view for either the index view.
 
-> ![Index on desktop view]()
+> ![Index on desktop view](./assets/3B47D4A8-FFE7-4182-ADC9-8EDC70DCF68C.jpeg)
 
 1. Create a wireframe for the view that has a new form (new user, new shipping information, new post, new song, new product etc.) view (on mobile).
 
-> ![New view]()
+> ![New view](./assets/4680DBDE-CFF7-4AAF-9167-D056B5087501.jpeg)
 
 ## Minimum Viable Product
 
@@ -125,10 +135,12 @@ Deploy this to GitHub pages.
 
 Write down three things that went well for you doing this lab.
  
- - one
- - two
- - three
+ - Having a workspace app helps with aligning tasks at hand.
+ - The wireframe kept my thoughts clear and direct. I was able to create a mock page in a few minutes.
+ - I feel like I'm getting better at HTML and CSS.
 
 Write down one thing you'd improve on for next time.
 
 > One thing I'd improve ...
+
+I want to go down a deeper rabbit hole when expanding on project ideas.
