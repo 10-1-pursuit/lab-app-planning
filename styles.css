@@ -1,0 +1,41 @@
+body{
+    background-color: cornflowerblue;
+}
+h1{
+    text-align: center;
+    color: red;
+    border-bottom: 2px solid black;
+    height:50px
+}
+
+.clicks{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: yellow;
+    border-bottom: 2px solid black;
+    align-items:flex-start;
+   height: 56px;
+   position: relative;
+   top:-10px
+}
+
+img{
+ width: 300px;
+ height: 300px;
+ border-radius: 50px;
+ position: relative;
+ left:350px;
+ top:20px;
+ border: 2px solid black
+}
+
+.foot{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: black;
+    border-top: 2px solid black;
+    position: relative;
+    top:30px
+}

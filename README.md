@@ -135,10 +135,12 @@ Deploy this to GitHub pages.
 
 Write down three things that went well for you doing this lab.
  
- - one
- - two
- - three
+ - Having a workspace app helps with aligning tasks at hand.
+ - The wireframe kept my thoughts clear and direct. I was able to create a mock page in a few minutes.
+ - I feel like I'm getting better at HTML and CSS.
 
 Write down one thing you'd improve on for next time.
 
 > One thing I'd improve ...
+
+I want to go down a deeper rabbit hole when expanding on project ideas.
