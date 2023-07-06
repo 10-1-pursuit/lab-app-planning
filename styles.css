@@ -1,0 +1,36 @@
+
+body{
+    background-color: darkgreen;
+}
+
+.landscape{
+    display: block;
+    border: 90px dotted blue;
+}
+
+.container{
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+
+}
+
+
+.container section{
+    display: block;
+    border: 15px solid black;
+    height: 1100px;
+}
+
+
+.container section div {
+    display: flex;
+    border: 34px solid gold;
+    height: 300px;
+    
+}
+
+
+@media(max-width: 480px){
+
+
+}
