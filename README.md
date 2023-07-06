@@ -12,7 +12,7 @@
 
 ## Instructions
 
-You will be planning a new application to develop that will be a competitor for another popular application. Your goal is to determine the minimal functionality required so you can launch your app as soon as possible.
+You will be planning a new application to develop what will be a competitor for another popular application. Your goal is to determine the minimal functionality required so you can launch your app as soon as possible.
 
 Choose from any popular app. It can be an app for anything:
 
@@ -32,11 +32,11 @@ Choose from any popular app. It can be an app for anything:
 
 #### In 1-3 sentences describe your application.
 
-> My app ...
+> My app ... Helps users find the hottest food joints in their area
 
 #### What is the name of your application?
 
-> APP NAME
+> Chop Chop, Im Starvin'
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
