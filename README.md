@@ -33,18 +33,37 @@ Choose from any popular app. It can be an app for anything:
 #### In 1-3 sentences describe your application.
 
 > My app ...
+Will be a sneaker comparison app. It will compare all sneaker prices through a database and different sources.
 
 #### What is the name of your application?
 
 > APP NAME
+Sneak Peak
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
 - `As a <type of user>, I want to <some goal>, so that <some reason>.`
 
+
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
-> As a ...
+> As a ... user, i would like to be able to see the cheapeast price of the product that I am looking for.
+
+> I would like to see the best deals in realtime from all around the world.
+
+> Should be able to search by brand, size, style, and lowest price.
+
+>User should also be able to search for high end products as well.
+
+> User should be able to pay for shipping with apple pay/ google pay/ all modern payment apps.
+
+>User should be able to input shipping details .
+
+>user should aslo be able to create and account and 2 factor authentication.
+
+>User should be able to edit thier profile as well as internal personlization.
+
+>User should be able to click and interactive menu
 
 #### Create a new board
 
@@ -55,7 +74,7 @@ Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 Provide a link to your board below.
 
-> [APP NAME board]()
+> [APP NAME board](https://trello.com/b/SPAd0zTf/user-story)
 
 #### For one card, fill out more details, include:
 
@@ -68,7 +87,7 @@ Move that card to the `Doing` list and assign yourself to it.
 
 Provide a link to the specific card below.
 
-> [Detailed card]()
+> [Detailed card](https://trello.com/b/n1D8nXir/doing)
 
 #### Create one bug card.
 
@@ -86,7 +105,7 @@ Make sure to label it as a bug. Move the card to the `To Do` list.
 
 Provide a link to the specific card below.
 
-> [Bug card]()
+> [Bug card](https://trello.com/b/TkRvXW2D/bug)
 
 #### Create one chore card
 
@@ -97,7 +116,7 @@ Think back to a chore you had in a recent lab or project and model that example.
 
 Provide a link to the specific card below.
 
-> [Chore card]()
+> [Chore card](https://trello.com/b/yDjfkaL3/chores)
 
 ### Wireframes
 
