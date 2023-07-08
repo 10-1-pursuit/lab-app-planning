@@ -124,10 +124,10 @@ Deploy this to GitHub pages.
 ## Reflection
 
 Write down three things that went well for you doing this lab.
- 
- - one
- - two
- - three
+
+- one
+- two
+- three
 
 Write down one thing you'd improve on for next time.
 
