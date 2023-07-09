@@ -53,3 +53,13 @@ body {
     border-radius: 2px;
     border-color: blue;
 }
+
+.h2Rank1 {
+
+    border: 10px;
+    border-color: red;
+    border-radius: 10px;
+    border-style: dotted;
+    width: 50%;
+    margin-top: 5%;
+}
