@@ -32,19 +32,49 @@ Choose from any popular app. It can be an app for anything:
 
 #### In 1-3 sentences describe your application.
 
-> My app ...
+> GamerDigest 
+My app is called GamerDigest. GamerDigest a is a gaming app for news where the user can build a top 10 of their favorite games. The app provides information and news about specific games.  Amateur and professional gamers can use GamerDigest to post their favorite game clips. 
 
 #### What is the name of your application?
 
-> APP NAME
+> GamerDigest
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
 - `As a <type of user>, I want to <some goal>, so that <some reason>.`
 
+
+
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
 > As a ...
+`As a <new user>, I want to <create a new user login and provide gamer tags for all my gaming devices>, so that <the user can find other players to play with>.`
+
+`As a <interested gamer>, I want to <be able to post my top 10 favorite games>, so that <other players can see eachothers' favorite games>.`
+
+`As a <new user>, I want to <create a gamer chat for people to meet>, so that <the user can link with other players, meet new people, share fun experiences and find players to play with>.`
+
+`As a <gamer>, I want to <create a page for gamer news>, so the <user can be informed of the hottest new games>.`
+`As an <interested gamer>, I want players <to post their favorite gaming clips>, so that <other players can see eachothers' game highlights>.`
+
+`As a <prospective gamer>, I want to invite <new players and give them gaming tips>, so that <the prospective gamer can learn the basics of a game, educate themselves on the best character and skills builds, and become better players>.`
+
+`As a <new user>, I want to <create a gamer tag section where each name tag has a remove button>, so that <the user can remove their gamer tag>.`
+
+`As a <programmer>, I want to <create a top trending games page>, so that <current, existing, and passive players> can know what games are being played so they don't skip a beat and can jump back into the action anytime.`
+
+`As a <new user>, I want to <create a gamer tag section where each name tag has a remove button>, so that <the user can remove their gamer tag>.`
+
+`As a <programmer>, I want to <create a top trending games page, so that <current, existing, and passive players> can know what games are being played so they don't skip a beat and can jump back into the action anytime.`
+
+`As a <programmer>, I want to <create a discount page where I can get a percentage for referring customers to purchase discounted games>, so that <I can make some sort of income>.`
+
+`As a <programmer>, I want to <create a ranking system>, so that <current, existing, and passive players> can track scores over various platforms, consoles, games in the likes of codetrack.`
+
+
+
+
+
 
 #### Create a new board
 
@@ -55,7 +85,7 @@ Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 Provide a link to your board below.
 
-> [APP NAME board]()
+> [GamerDigest Board](https://trello.com/invite/b/CmJZbXU1/ATTI61f8abef2fe03e65a1572a08a21d730982A47D43/gamerdigest-board)
 
 #### For one card, fill out more details, include:
 
@@ -105,15 +135,22 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 1. Create a wireframe for the main page that shows an index view (on mobile).
 
-> ![Index on mobile view]()
+> ![Index on mobile view](https://excalidraw.com/#json=oKyJMqG8NFRER6r2fzYjZ,DyaVoHr0QpEuq8neIBuRUQ)
+
+Image: ![MobileView](https://github.com/gasparecarollo/Inventory_Web_Application_Project/assets/128388442/f209d328-5bdd-4d26-89ee-9000f30a10df)
 
 1. Create a wireframe for a wide desktop view for either the index view.
 
-> ![Index on desktop view]()
+> ![Index on desktop view](https://excalidraw.com/#json=SFK1hZLiX3w2E1yGsVD9y,FNbrvdABrvGEybn2aWhTEA)
+
+Image: ![WideScreen](https://github.com/gasparecarollo/Inventory_Web_Application_Project/assets/128388442/9769148f-cbb6-4197-84b9-5e52928f96c8)
 
 1. Create a wireframe for the view that has a new form (new user, new shipping information, new post, new song, new product etc.) view (on mobile).
 
 > ![New view]()
+
+![GamerRankForm_Mobile](https://github.com/gasparecarollo/Inventory_Web_Application_Project/assets/128388442/4c0604b0-103c-4566-95f2-5e95132c0f2e)
+
 
 ## Minimum Viable Product
 
@@ -125,10 +162,11 @@ Deploy this to GitHub pages.
 
 Write down three things that went well for you doing this lab.
  
- - one
- - two
- - three
+ - one - Building a Trello board
+ - two - Building my form inside html
+ - three - Designing my app/website through Excalidraw
 
 Write down one thing you'd improve on for next time.
 
-> One thing I'd improve ...
+> One thing I'd improve ...Aligningm and styling my form, so it is more organized, compact, accessible, legible, and appealing to the user. 
+
