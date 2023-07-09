@@ -162,10 +162,11 @@ Deploy this to GitHub pages.
 
 Write down three things that went well for you doing this lab.
  
- - one
- - two
- - three
+ - one - Building a Trello board
+ - two - Building my form inside html
+ - three - Designing my app/website through Excalidraw
 
 Write down one thing you'd improve on for next time.
 
-> One thing I'd improve ...
+> One thing I'd improve ...Aligningm and styling my form, so it is more organized, compact, accessible, legible, and appealing to the user. 
+
