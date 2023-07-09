@@ -144,10 +144,10 @@ Deploy this to GitHub pages.
 
 Write down three things that went well for you doing this lab.
 
-- one
-- two
-- three
+- one It was fun to create an app of your choosing.
+- two, It was time consuming for the app to be created.
+- three, creating a template to make my app work efficiently.
 
 Write down one thing you'd improve on for next time.
 
-> One thing I'd improve ...
+> One thing I'd improve is to be more careful on what pros and con can affect my building on application.
