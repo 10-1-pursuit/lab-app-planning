@@ -32,11 +32,11 @@ Choose from any popular app. It can be an app for anything:
 
 #### In 1-3 sentences describe your application.
 
-> My app ...
+> My app is about collecting data from everyday lifestyle such as activity of daily living. Waking up to go to brush your teeth and have breakfast etc. Collecting positive and negative stress. The more positive stress the more points you can get and redeem to use at any store.
 
 #### What is the name of your application?
 
-> APP NAME
+> The name of my app is called Destresser.
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
@@ -44,7 +44,25 @@ Choose from any popular app. It can be an app for anything:
 
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
-> As a ...
+> As a user, I want to be able to create an account, so that I can personalize my experience and save my progress.
+
+As a user, I want to have access to a variety of guided meditation sessions, so that I can relax and reduce stress.
+
+As a user, I want to be able to set reminders for meditation sessions, so that I can easily incorporate mindfulness into my daily routine.
+
+As a user, I want to track my meditation progress, so that I can see my improvement over time.
+
+As a user, I want to have access to calming music and sounds, so that I can create a soothing atmosphere during my meditation sessions.
+
+As a user, I want to be able to customize the duration and intensity of my meditation sessions, so that I can cater to my specific needs.
+
+As a user, I want to receive notifications and tips on stress management throughout the day, so that I can maintain a mindful mindset.
+
+As a user, I want to have a journaling feature, so that I can reflect on my thoughts and emotions after each meditation session.
+
+As a user, I want to be able to share my progress and achievements with others, so that I can inspire and motivate them to practice mindfulness.
+
+As a user, I want to have access to a community forum or chat feature, so that I can connect with other users and receive support in my mindfulness journey.
 
 #### Create a new board
 
@@ -55,7 +73,7 @@ Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 Provide a link to your board below.
 
-> [APP NAME board]()
+> [APP NAME board](https://trello.com/b/8bNwENfK/destressor)
 
 #### For one card, fill out more details, include:
 
@@ -67,6 +85,7 @@ Provide a link to your board below.
 Move that card to the `Doing` list and assign yourself to it.
 
 Provide a link to the specific card below.
+https://trello.com/b/8bNwENfK/destressor
 
 > [Detailed card]()
 
@@ -86,7 +105,7 @@ Make sure to label it as a bug. Move the card to the `To Do` list.
 
 Provide a link to the specific card below.
 
-> [Bug card]()
+> [Bug card]()https://trello.com/b/8bNwENfK/destressor
 
 #### Create one chore card
 
@@ -97,7 +116,7 @@ Think back to a chore you had in a recent lab or project and model that example.
 
 Provide a link to the specific card below.
 
-> [Chore card]()
+> [Chore card]()https://trello.com/b/8bNwENfK/destressor
 
 ### Wireframes
 
@@ -113,7 +132,7 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 1. Create a wireframe for the view that has a new form (new user, new shipping information, new post, new song, new product etc.) view (on mobile).
 
-> ![New view]()
+> ![New view](https://excalidraw.com/)
 
 ## Minimum Viable Product
 
@@ -124,11 +143,11 @@ Deploy this to GitHub pages.
 ## Reflection
 
 Write down three things that went well for you doing this lab.
- 
- - one
- - two
- - three
+
+- one It was fun to create an app of your choosing.
+- two, It was time consuming for the app to be created.
+- three, creating a template to make my app work efficiently.
 
 Write down one thing you'd improve on for next time.
 
-> One thing I'd improve ...
+> One thing I'd improve is to be more careful on what pros and con can affect my building on application.
