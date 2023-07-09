@@ -7,22 +7,49 @@ body {
 
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     width: 100%;
+}
 
+.formTitle {
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border: 10px;
+    border-left-width: 2%;
+    border-radius: 5px;
+    border-style: inset;
+    border-color: blue;
 }
 
 #myForm {
 
-    margin: 20%;
-    padding: 5%;
+    display: flex;
+    align-items: center;
+    margin-left: 15%;
+
+}
+
+#signInForm {
+
+    display: flex;
+    align-items: center;
+    margin-top: 1%;
 }
 
 #platforms {
-
+    display: inline-flex;
+    grid-template-rows: 1fr 1fr 1fr;
+    align-items: center;
     margin-top: 10%;
+
+}
+
+#gameNames {
+    align-items: center;
+    margin-right: 10%;
 }
 
 #formDiv {
-    display: flex;
-    grid-template-columns: 1fr 1fr;
-
+    border: 10px;
+    border-radius: 2px;
+    border-color: blue;
 }

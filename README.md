@@ -149,6 +149,7 @@ Image: ![WideScreen](https://github.com/gasparecarollo/Inventory_Web_Application
 
 > ![New view]()
 
+![GamerRankForm_Mobile](https://github.com/gasparecarollo/Inventory_Web_Application_Project/assets/128388442/4c0604b0-103c-4566-95f2-5e95132c0f2e)
 
 
 ## Minimum Viable Product
