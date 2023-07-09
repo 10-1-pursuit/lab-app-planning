@@ -86,6 +86,7 @@ Move that card to the `Doing` list and assign yourself to it.
 
 Provide a link to the specific card below.
 https://trello.com/b/8bNwENfK/destressor
+
 > [Detailed card]()
 
 #### Create one bug card.
@@ -104,7 +105,7 @@ Make sure to label it as a bug. Move the card to the `To Do` list.
 
 Provide a link to the specific card below.
 
-> [Bug card]()
+> [Bug card]()https://trello.com/b/8bNwENfK/destressor
 
 #### Create one chore card
 
@@ -115,7 +116,7 @@ Think back to a chore you had in a recent lab or project and model that example.
 
 Provide a link to the specific card below.
 
-> [Chore card]()
+> [Chore card]()https://trello.com/b/8bNwENfK/destressor
 
 ### Wireframes
 
@@ -131,7 +132,7 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 1. Create a wireframe for the view that has a new form (new user, new shipping information, new post, new song, new product etc.) view (on mobile).
 
-> ![New view]()
+> ![New view](https://excalidraw.com/)
 
 ## Minimum Viable Product
 
