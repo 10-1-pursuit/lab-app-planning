@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GamerRankForm</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="index.js" defer></script>
+</head>
+
+<body>
+    <div class="formTitle">
+        <h1 class="rankForm"> GamerDigest Ranking Form</h1>
+    </div>
+    <div class="formDiv">
+        <form id="myform">
+
+            <label for="gamingPlatform"> Console/Gaming Platform</label>
+            <select id="platforms" name="platforms">
+                <option>--Select a gaming platform--</option>
+                <option value="Nintendo Switch"> Nintendo Switch</option>
+                <option value="SteamDeck"> SteamDeck </option>
+                <option value="Playstation5"> Playstation 5</option>
+                <option value="Playstation4"> Playstation 4</option>
+                <option value="XBOX_X"> XBOX Series X </option>
+                <option value="XBOX_S"> XBOX Series S </option>
+                <option value="PC"> PC </option>
+            </select>
+
+            <label for="gameTitles"> Game Titles</label>
+            <select id="gameName" name="gameName">
+                <option>--Select a Game Title--</option>
+                <option value="LeagueOfLegends"> League Of Legends</option>
+                <option value="COD"> Call of Duty </option>
+                <option value="Fortnite"> Fortnite</option>
+            </select>
+
+            <label for=" inGameName"> In Game Name (IGN):</label>
+            <input type="text" id="iGN" placeholder="In Game Name" required>
+            <label for="password"> Password</label>
+            <input type="text" id="password" required>
+            <button class="signInBttn" type="submit" value="signIn" name="signIn">Sign In:</button>
+            <button class="resetBtn" type="reset" value="reset" name="reset" onclick="resetData()"> Reset</button>
+        </form>
+
+    </div>
+
+</body>
+
+</html>

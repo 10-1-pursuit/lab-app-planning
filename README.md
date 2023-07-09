@@ -137,13 +137,19 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 > ![Index on mobile view](https://excalidraw.com/#json=oKyJMqG8NFRER6r2fzYjZ,DyaVoHr0QpEuq8neIBuRUQ)
 
+Image: ![MobileView](https://github.com/gasparecarollo/Inventory_Web_Application_Project/assets/128388442/f209d328-5bdd-4d26-89ee-9000f30a10df)
+
 1. Create a wireframe for a wide desktop view for either the index view.
 
 > ![Index on desktop view](https://excalidraw.com/#json=SFK1hZLiX3w2E1yGsVD9y,FNbrvdABrvGEybn2aWhTEA)
 
+Image: ![WideScreen](https://github.com/gasparecarollo/Inventory_Web_Application_Project/assets/128388442/9769148f-cbb6-4197-84b9-5e52928f96c8)
+
 1. Create a wireframe for the view that has a new form (new user, new shipping information, new post, new song, new product etc.) view (on mobile).
 
 > ![New view]()
+
+
 
 ## Minimum Viable Product
 

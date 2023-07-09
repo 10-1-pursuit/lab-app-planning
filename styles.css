@@ -1,0 +1,28 @@
+* {
+
+    background-color: grey;
+}
+
+body {
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 100%;
+
+}
+
+#myForm {
+
+    margin: 20%;
+    padding: 5%;
+}
+
+#platforms {
+
+    margin-top: 10%;
+}
+
+#formDiv {
+    display: flex;
+    grid-template-columns: 1fr 1fr;
+
+}
