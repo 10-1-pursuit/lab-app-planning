@@ -13,7 +13,7 @@
 ## Instructions
 
 You will be planning a new application to develop that will be a competitor for another popular application. Your goal is to determine the minimal functionality required so you can launch your app as soon as possible.
-
+ 
 Choose from any popular app. It can be an app for anything:
 
 - Music
@@ -21,7 +21,7 @@ Choose from any popular app. It can be an app for anything:
 - Shopping
 - Social media
 - Blog
-- Forum (like Stack Overflow or Reddit)
+- Forum (like Stack Overflow or Reddit)`
 - Chat app
 - Recipes
 - Business reviews
@@ -32,11 +32,11 @@ Choose from any popular app. It can be an app for anything:
 
 #### In 1-3 sentences describe your application.
 
-> My app ...
+> My app is for users in the shopping category. My app will aloow users to buy bags and sell bags on the website . The website will allow users to look for bag categories based upon shape , size , color and bag material . 
 
 #### What is the name of your application?
 
-> APP NAME
+> Bag Boutique 
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
@@ -44,7 +44,17 @@ Choose from any popular app. It can be an app for anything:
 
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
-> As a ...
+> As a customer, i want to be able to see images of bags on load .
+As a customer, i want to be able to see if bags are instock or out of stock.
+As a seller , i want to be able to add bags to the page to sell.
+As a user, i would like the see the difference in the page when mobile and desktop size.
+As a user , i would like to have the option to toggle in bags are in stock 
+As a creator, i would like to see a footer thanking the customers for shopping.
+As a customer , i would like to see error messages telling me to competely fill the forms with required information.
+As a customer , i would like to have access to color option buttons 
+As a user, i would like to have access to a shopping cart to put items in cart. 
+As a user, i would like to have access to a remove button that removes items from page .
+As a user, i would like to have access to a remove button that removes items from page .
 
 #### Create a new board
 
@@ -55,7 +65,7 @@ Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 Provide a link to your board below.
 
-> [APP NAME board]()
+> [APP NAME board](https://trello.com/b/Qjyv0sOo/web-application)
 
 #### For one card, fill out more details, include:
 
@@ -125,10 +135,10 @@ Deploy this to GitHub pages.
 
 Write down three things that went well for you doing this lab.
  
- - one
- - two
- - three
+ - it helped me think about how i will plan my future labs 
+ - i learned a new tool for app planning 
+ - helps me be more organized and time managed 
 
 Write down one thing you'd improve on for next time.
 
-> One thing I'd improve ...
+> One thing I'd improve is to better plan out my planning .
