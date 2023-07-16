@@ -32,11 +32,11 @@ Choose from any popular app. It can be an app for anything:
 
 #### In 1-3 sentences describe your application.
 
-> My app ...
+> My app ... will be model a luxury & sport car rental . Vistitors will be able to browse a catalog to see optuons in stock and fill out a form for inquries.
 
 #### What is the name of your application?
 
-> APP NAME
+> APP NAME Class & Speed
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
@@ -44,7 +44,12 @@ Choose from any popular app. It can be an app for anything:
 
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
-> As a ...
+> `As a ... <25 yr old vehicle enthusiast >, I want to < find a car that is not an American-made commuter-car >, so that < I can find a car to show off.>`
+> `As a <dad>, I want to < have access to the website>, so that <i can see what's in stock>.`
+> `As a <user>, I want to < have access to the website>, so that <give suggesstions on new inventory>.`
+> `As a <user>, I want to < have access to the website>, so that <inquire about new inventory>.`
+> `As a <user>, I want to < have access to the website>, so that <see annoucements/promotions>.`
+
 
 #### Create a new board
 
@@ -55,7 +60,7 @@ Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 Provide a link to your board below.
 
-> [APP NAME board]()
+> [APP NAME board]( https://trello.com/invite/b/xhAUT8X3/ATTIcbc856b4a8e30991e7fcd96981733ca68C5CF3C9/lr-app-planning )
 
 #### For one card, fill out more details, include:
 
@@ -68,7 +73,7 @@ Move that card to the `Doing` list and assign yourself to it.
 
 Provide a link to the specific card below.
 
-> [Detailed card]()
+> [Detailed card]( https://trello.com/c/TE1K7Vkj )
 
 #### Create one bug card.
 
@@ -86,7 +91,7 @@ Make sure to label it as a bug. Move the card to the `To Do` list.
 
 Provide a link to the specific card below.
 
-> [Bug card]()
+> [Bug card]( https://trello.com/c/6cLGZH05)
 
 #### Create one chore card
 
